@@ -100,7 +100,7 @@ String mm = w.getAttribute("innerText");
 System.out.println(mm);
 
 
-
+staticWait(2000);
 
 
 
